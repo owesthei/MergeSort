@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class App {
+public class MergeSort {
     public static void main(String[] args) {
         int[] nums = createArray();
 
